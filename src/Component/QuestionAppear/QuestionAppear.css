@@ -1,0 +1,19 @@
+.submit_btn1{
+    margin-right: -35px;
+    font-size: 25px;
+    padding: 20px;
+    background-color: #d8e4bc;
+    color: black;
+    border-radius: 33px;
+}
+.prebtn{
+    margin-top: 10px;
+}
+.mainScr_btn{
+    font-size: 25px;
+    padding: 20px;
+    background-color: #d8e4bc;
+    color: red;
+    border-radius: 33px;
+    
+}

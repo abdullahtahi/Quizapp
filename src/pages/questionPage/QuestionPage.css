@@ -1,0 +1,20 @@
+.questionAppear{
+
+    display: flex;
+    justify-content: center;
+transform: translateY(150px);
+
+}
+.paper_conta{
+    padding:50px;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+    margin-top:25px;
+    margin-left: -30px;
+}
+.top-message{
+    font-size: 40px;
+    text-align: center;
+}
